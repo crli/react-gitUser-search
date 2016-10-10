@@ -7,7 +7,7 @@ react-gitUser-search
 
 ## Demo & Examples
 
-Live demo: [http://crli.github.io/react-gitUser-search/](http://crli.github.io/gallery-by-react/)
+Live demo: [http://crli.github.io/react-gitUser-search/](http://crli.github.io/react-gitUser-search/)
 To build the examples locally, run:
 
 ```
